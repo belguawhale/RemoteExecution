@@ -3,7 +3,7 @@ Allows a user to remotely control a computer through Dropbox's syncing of files.
 
 If you are installing RemoteExecution, please read INSTALL located in the root of this repository.
 
-Notable Files
+## Notable Files ##
 
 .\watchdog.bat
  This is your launcher and will keep your script alive if it dies. It logs startup and restarting of the script, and will notify you of any errors.
@@ -17,7 +17,7 @@ Notable Files
 Logs of startup/restarting of the script are found under .\Logs\output.txt, and logs of all commands (INPUT and OUTPUT) are found under .\Logs\log.txt.
 For help, simply send the command help\`.
 
-Notes
+## Notes ##
 
 - Changes to remoterun.vbs will not take effect until you send exit\` to restart it. If the script is not responding to anything afterwards, there may be a syntax error in the script. You can troubleshoot that by seeing how often the script is restarting in output.txt. In that case, fix the script and save it. Watchdog.bat will constantly restart the script, and so your changes will take effect.
 - restarteverything.vbs terminates watchdog.bat in case you want to make changes to it.
