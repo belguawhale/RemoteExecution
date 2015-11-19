@@ -1,0 +1,3 @@
+log`<text>
+
+Appends <text> to the log. Useful for adding comments.

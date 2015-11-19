@@ -1,0 +1,3 @@
+run`<what to execute>
+ 
+Executes something using VBScript's WshShell.Run.

@@ -1,0 +1,3 @@
+reply`<text>
+
+Replies with <text>. Similar to log but sends a reply back.

@@ -1,0 +1,3 @@
+exit`[<reason>]
+
+Terminates RemoteExecution. If running, watchdog.bat will restart it. Useful for applying edits to remoterun.vbs. If [<reason>] is provided, exits with [<reason>], otherwise exits with timestamp.

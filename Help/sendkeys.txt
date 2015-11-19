@@ -1,0 +1,3 @@
+sendkeys`<keystrokes>
+ 
+Sends keystrokes in VBScript format. Surround special characters with angled brackets (e.g. {ENTER}). Use ^ for Ctrl, + for Shift, and % for Alt (e.g. %{F4} = Alt-F4).

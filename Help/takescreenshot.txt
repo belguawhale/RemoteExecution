@@ -1,0 +1,3 @@
+takescreenshot`[<filename>]
+
+Takes a screenshot of the current screen. If no filename is given, defaults to a timestamp.

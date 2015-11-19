@@ -1,0 +1,3 @@
+nircmd`<nircmd command>
+
+Uses nircmd.exe to run a nircmd command.

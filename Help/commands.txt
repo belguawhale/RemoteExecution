@@ -1,0 +1,12 @@
+Listing of commands:
+ help           - Provides help
+ run            - Executes a command through WshShell.Run
+ nircmd         - Executes a nircmd command
+ nircmdc        - Same as nircmd but uses nircmdc.exe
+ takescreenshot - Takes a screenshot with an optional name
+ sendkeys       - Sends keystrokes in VBScript format
+ log            - Adds text to the log
+ reply          - Replies with text
+ ping           - Checks to see if RemoteExecution is running
+ moo            - Moo
+ exit           - Terminates and restarts RemoteExecution

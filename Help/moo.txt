@@ -1,0 +1,3 @@
+moo takes no arguments
+
+Moo. What did you expect?

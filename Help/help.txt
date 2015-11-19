@@ -1,0 +1,3 @@
+help`<command>
+
+Displays supposedly helpful information. Try help`commands for a listing of commands. Parameters surrounded by <> are required, and parameters surrounded by [<>] are optional.
